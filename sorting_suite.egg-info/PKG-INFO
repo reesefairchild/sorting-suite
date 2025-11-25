@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
-Name: sorting_suite
-Version: 1.0.0
+Name: sorting-suite
+Version: 1.0.1
 Summary: A large suite of numerical sorting algorithms in Python
-Home-page: https://reesefairchild.github.io/sorting_suite
+Home-page: https://reesefairchild.github.io/sorting-suite
 Author: Reese Fairchild
 Author-email: rfair@uw.edu
 License: MIT
